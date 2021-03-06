@@ -1,1 +1,2 @@
 # pytorchLearning
+本项目记录自学pytorch的过程，本次学习只要通过观看视频进行
